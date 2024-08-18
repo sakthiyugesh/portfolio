@@ -1,1 +1,2 @@
 "# portfolio" 
+"# ignore index.html"
